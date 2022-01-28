@@ -1,0 +1,2 @@
+# Discord-Inviter-fulfills-the-conditions
+Discord Inviters which fulfills the conditions. Used to get whitelist in Discord. Click on the emoji and confirm the rules or send the referral code to the desired channel and confirm the rules. Works with tokens. Instruction -  https://t.me/rudtyt/1070 | Дискорд инвайтер который выполняет условия. Используется для получения whitelist в дискорде. Кликнуть на эмодзи и подтвердить правила или отправить реферальный код в нужный канал и подтверждает правила. Работает с токенами. Инструкция - https://t.me/rudtyt/1070
